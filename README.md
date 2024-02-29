@@ -1,19 +1,15 @@
 ### Hi there, Welcome to my Profile 👋
-- :telescope: I’m currently working on my Portfolio Project.
-- :seedling: I’m currently learning Laravel, MySQL, and OOP.
-- :thinking_face: I’m looking for help with Web3.0 and Blockchain.
-- :speech_balloon: Ask me about Back-end technologies.
-- :mailbox: How to reach me: [Twitter](https://twitter.com/TalhaCode), [WhatsApp](wa.me/+923034515043), [LinkedIn](https://www.linkedin.com/in/talha-shinwari-52ab84194/).
+- :telescope: I’m currently working on Socialify Project.
+- :seedling: I’m currently learning NodeJs,ExpressJs,MongoDB.
+- :speech_balloon: Ask me about Front-end and Back-end technologies.
+- :mailbox: How to reach me: [WhatsApp](wa.me/+923419319429), [LinkedIn](https://www.linkedin.com/in/sajid-bashir-5548aa259).
 - :zap: Fun fact: I love to help others.
 ### Connect with Me
 <p align="center">
-  <a href="https://twitter.com/TalhaCode">
-    <img alt="Twitter" src="https://img.shields.io/twitter/follow/TalhaCode?style=social">
-  </a>
-  <a href="https://www.linkedin.com/in/talha-shinwari-52ab84194/">
+  <a href="https://www.linkedin.com/in/sajid-bashir-5548aa259">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue">
   </a>
-  <a href="wa.me/+923034515043">
+  <a href="wa.me/+923419319429">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Message-green">
   </a>
 </p>
