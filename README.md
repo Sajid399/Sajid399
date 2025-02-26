@@ -1,7 +1,7 @@
 
 ### Hi there, Welcome to my Profile 👋
 - :telescope: I’m currently working on KingsGrove Project.
-- :seedling: I’m currently learning NodeJs,ExpressJs,MongoDB,Laravek PHP.
+- :seedling: I’m currently learning NodeJs,ExpressJs,MongoDB,Laravel PHP.
 - :speech_balloon: Ask me about Front-end and Back-end technologies.
 - :mailbox: How to reach me: [WhatsApp](wa.me/+923419319429), [LinkedIn](https://www.linkedin.com/in/sajid-bashir-5548aa259).
 - :zap: Fun fact: I love to help others.
